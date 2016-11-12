@@ -1,0 +1,116 @@
+  /*==================================================
+  =            Bootstrap 3 Media Queries             =
+  ==================================================*/
+
+
+	/*==========  Mobile First Method  ==========*/
+
+  	/* Custom, iPhone Retina */
+  	@media only screen and (min-width : 320px){
+
+  	}
+
+  	/* Extra Small Devices, Phones */
+  	@media only screen and (min-width : 480px){
+
+  	}
+
+  	/* Small Devices, Tablets */
+  	@media only screen and (min-width : 768px){
+      .navbar {
+          padding: 20px 0;
+          -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+          -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+          transition: background .5s ease-in-out,padding .5s ease-in-out;
+      }
+
+      .top-nav-collapse {
+          padding: 0;
+      }
+
+  	}
+
+  	/* Medium Devices, Desktops */
+  	@media only screen and (min-width : 992px){
+
+  	}
+
+  	/* Large Devices, Wide Screens */
+  	@media only screen and (min-width : 1200px){
+
+  	}
+
+
+
+  	/*==========  Non-Mobile First Method  ==========*/
+
+  	/* Large Devices, Wide Screens */
+  	@media only screen and (max-width : 1200px){
+
+  	}
+
+  	/* Medium Devices, Desktops */
+  	@media only screen and (max-width : 992px){
+      // Front Parallax
+    .fr-name {
+      padding-top: 170px;
+      font-size: 6rem;
+    }
+    .fr-desc{
+      color: #FF6C00;
+      padding: 10px;
+      font-size: 30px;
+    }
+    .fr-name {
+      margin-top: -12rem;
+    }
+  	}
+
+  	/* Small Devices, Tablets */
+  	@media only screen and (max-width : 768px){
+      .single-tag {
+    font-size: 4rem;
+    padding: 5px 10px;
+    border-radius: 2px;
+    line-height: 7rem;
+    width: 100%;
+    display: block;
+    margin-top: 2rem;
+}
+      .fr-wrap {
+        margin-top: 11rem;
+      }
+      .fr-name {
+        margin-top: -10rem;
+
+      }
+  	}
+
+  	/* Extra Small Devices, Phones */
+  	@media only screen and (max-width : 480px){
+      .fr-name {
+        margin-top: -10rem;
+          font-size: 4rem;
+
+      }
+      .fr-desc{
+        color: #FF6C00;
+        padding: .5rem;
+        font-size: 2rem;
+      }
+      .navbar-toggle {
+        float: none;
+      }
+      .input-group .form-control {
+          width: 80%;
+      }
+      #searchform {
+          display: block;
+          width: 90%;
+        }
+  	}
+
+  	/* Custom, iPhone Retina */
+  	@media only screen and (max-width : 320px){
+
+  	}

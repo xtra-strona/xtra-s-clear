@@ -1,0 +1,22 @@
+.port-cont {
+  img {
+   border: 1px solid aliceblue;
+   padding: 2px;
+   transition: all .5s ease-in-out;
+   &:hover {
+     border: 3px solid #0a7265;
+     border-radius: 90%;
+     padding: 1rem;
+     background-color: black;
+   }
+ }
+}
+//owl-demo
+    #owl-demo .item{
+      margin: 3px;
+    }
+    #owl-demo .item img{
+      display: block;
+      width: 100%;
+      height: auto;
+    }

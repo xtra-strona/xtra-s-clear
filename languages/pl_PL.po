@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xtra Starter Test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-11 19:44+0000\n"
+"PO-Revision-Date: 2016-11-11 19:46+0000\n"
+"Last-Translator: rafaoski <rafalolszewicz@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the template
+msgid "Clear Front Page"
+msgstr ""
+
+#: template-parts/content.php:12
+msgid "my-"
+msgstr ""
+
+#: inc/kirki-parts/clear-front.php:18
+msgid "Change Padding Top"
+msgstr "Zmień odległość od Menu"
+
+#: inc/kirki-parts/cookie-bar.php:30
+msgid "Text Understand Cookie"
+msgstr ""
+
+#: inc/kirki-parts/front-finally.php:30 inc/kirki-parts/front-head.php:58
+#: inc/kirki-parts/front-portfolio.php:29
+msgid "B-C"
+msgstr ""
+
+#: inc/kirki-parts/front-finally.php:31
+msgid "B-T "
+msgstr ""
+
+#: inc/kirki-parts/front-finally.php:32
+msgid "Text"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:29
+msgid "First Color"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:30
+msgid "Next Color"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:31
+msgid "Last Color"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:54
+msgid "Change Scrool Color"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:59
+msgid "B-H"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:60
+msgid "R-C"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:61
+msgid "R-H"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:62
+msgid "I-C"
+msgstr ""
+
+#: inc/kirki-parts/front-head.php:63
+msgid "I-H"
+msgstr ""
+
+#: inc/kirki-parts/front-portfolio.php:25
+#: inc/kirki-parts/front-portfolio.php:43
+msgid "Label"
+msgstr ""
+
+#: inc/kirki-parts/front-portfolio.php:30
+msgid "B-T"
+msgstr ""
+
+#: inc/kirki-parts/front-portfolio.php:47
+msgid "Text C"
+msgstr ""
+
+#: inc/kirki-parts/front-portfolio.php:48
+msgid "Background"
+msgstr ""
+
+#: inc/kirki-parts/front-portfolio.php:49
+msgid "Border"
+msgstr ""
+
+#: inc/kirki-parts/kirki-section.php:118
+msgid "Edit Option"
+msgstr ""
+
+#: inc/kirki-parts/kirki-section.php:139
+msgid "Add Custom Fields"
+msgstr ""
+
+#. Name of the theme
+msgid "Xtra Starter"
+msgstr ""
+
+#. URI of the theme
+msgid "https://github.com/xtra-strona/xtra-s.git"
+msgstr ""
+
+#. Author of the theme
+msgid "Rafał Olszewicz"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://rafalolszewicz.pl/"
+msgstr ""
+
+#: archive.php:29
+msgid "Choose Day"
+msgstr "Wybierz Dzień"
+
+#: archive.php:34
+msgid "Choose Month"
+msgstr "Wybierz Miesiąc"
+
+#: archive.php:39
+msgid "Choose Year"
+msgstr "Wybierz Rok"
+
+#: archive.php:50 author.php:34 category.php:39 index.php:47 search.php:47
+#: tag.php:39 template-parts/content-single.php:60
+msgid "&larr; Previous"
+msgstr "&larr; Poprzedni"
+
+#: archive.php:51 author.php:35 category.php:40 index.php:48 search.php:48
+#: tag.php:40 template-parts/content-single.php:61
+msgid "Next &rarr;"
+msgstr "Następny &rarr;"
+
+#: archive.php:56
+msgid "Sorry No Entry specified in Archive."
+msgstr "Niestety Brak określonego Archiwum."
+
+#: author.php:7
+msgid "Author Entries: "
+msgstr "Autor Archiwum: "
+
+#: author.php:24
+msgid "Choose Aauthor:"
+msgstr "Wybierz Autora:"
+
+#: category.php:12 category.php:18
+msgid "Your Category: "
+msgstr "Twoja Kategoria:"
+
+#: category.php:43 tag.php:43
+msgid "Sorry no specified Entry."
+msgstr "Przepraszamy nie Wybrałeś Kategorii"
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myśl o &ldquo;%2$s&rdquo;"
+msgstr[1] "Kilka myśli o &ldquo;%2$s&rdquo;"
+msgstr[2] "Wiele myśli o &ldquo;%2$s&rdquo;"
+
+#: comments.php:21 comments.php:170
+msgid "Comment navigation"
+msgstr "Nawigacja Komentarzy"
+
+#: comments.php:23 comments.php:172
+msgid "&larr; Older Comments"
+msgstr "&larr; Poprzednie Komentarze"
+
+#: comments.php:26 comments.php:175
+msgid "Newer Comments &rarr;"
+msgstr "Następne Komentarze &rarr;"
+
+#: comments.php:147
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: comments.php:156
+msgid "Your comment is awaiting moderation."
+msgstr "Twój Komentarz Czeka na Moderację."
+
+#: comments.php:186
+msgid "Comments are closed."
+msgstr "Komentarze Zamknięte"
+
+#: footer.php:17 footer.php:19
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Name of the template
+msgid "Front Page (Strona Frontowa)"
+msgstr "Strona Frontowa"
+
+#. Name of the template
+msgid "Full Width (Pełny Rozmiar)"
+msgstr "Pełny Rozmiar"
+
+#: index.php:52
+msgid "Sorry No Specified Entry."
+msgstr "Przepraszamy Brak Wpisów"
+
+#: search.php:14 search.php:20
+msgid "Search Results For:"
+msgstr "Wynik Wyszukiwania Dla:"
+
+#: search.php:37
+msgid "Your Search Results Is:"
+msgstr "Twój Rezultat Wyszukiwania To:"
+
+#: search.php:52
+msgid "Your Search Word "
+msgstr "Twoje Szukane Słowo"
+
+#: search.php:52
+msgid " Does Not Exsist"
+msgstr " Nie Istnieje"
+
+#: searchform.php:2
+msgid "Search Again"
+msgstr "Szukaj Ponownie"
+
+#: searchform.php:4
+msgid "Search"
+msgstr "Szukaj"
+
+#: tag.php:6 tag.php:17
+msgid "Choose from the available tags: "
+msgstr "Wybierz Spośród Dostępnych Tagów:"
+
+#: tag.php:10 tag.php:21
+msgid "Selected Tag: "
+msgstr "Wybrany Tag: "
+
+#: front-parts/front-contact.php:11 front-parts/front-last.php:2
+#: inc/kirki-parts/front-first.php:49 inc/kirki-parts/front-next.php:6
+#: inc/kirki-parts/front-next.php:58 inc/kirki-parts/front-next.php:70
+#: inc/kirki-parts/front-next.php:82 inc/kirki-parts/front-next.php:94
+#: inc/kirki-parts/front-portfolio.php:6
+msgid "Add Heading"
+msgstr "Dodaj Nagłówek"
+
+#: front-parts/front-contact.php:14
+msgid "Contact Form"
+msgstr "Formularz Kontaktowy"
+
+#: front-parts/front-finally.php:5 front-parts/front-finally.php:12
+#: front-parts/front-finally.php:20 front-parts/front-finally.php:29
+msgid "Add Text Header"
+msgstr "Dodaj Tekst Nagłówka"
+
+#: front-parts/front-finally.php:14 front-parts/front-finally.php:22
+#: front-parts/front-finally.php:31 front-parts/front-finally.php:39
+#: template-parts/content-author.php:18 template-parts/content-category.php:17
+#: template-parts/content-tags.php:18 inc/kirki-parts/front-finally.php:53
+#: inc/kirki-parts/front-finally.php:61 inc/kirki-parts/front-finally.php:70
+#: inc/kirki-parts/front-finally.php:78
+msgid "Read More"
+msgstr "Czytaj Więcej"
+
+#: front-parts/front-finally.php:37 front-parts/front-first.php:2
+#: front-parts/front-first.php:23 front-parts/front-next.php:4
+#: front-parts/front-portfolio.php:3 inc/kirki-parts/front-contact.php:5
+#: inc/kirki-parts/front-contact.php:6 inc/kirki-parts/front-contact.php:9
+#: inc/kirki-parts/front-contact.php:17 inc/kirki-parts/front-contact.php:18
+#: inc/kirki-parts/front-contact.php:20 inc/kirki-parts/front-finally.php:51
+#: inc/kirki-parts/front-finally.php:59 inc/kirki-parts/front-finally.php:68
+#: inc/kirki-parts/front-finally.php:76 inc/kirki-parts/front-last.php:7
+#: inc/kirki-parts/front-last.php:9
+msgid "Add Heading Text"
+msgstr "Dodaj Tekst Nagłówka"
+
+#: front-parts/front-first.php:9
+msgid "Add Left Heading Text"
+msgstr "Dodaj Lewy Nagłówek"
+
+#: front-parts/front-first.php:37
+msgid "Add Right Heading Text"
+msgstr "Dodaj Prawy Nagłówek"
+
+#: inc/footer-script.php:138 inc/kirki-parts/cookie-bar.php:23
+msgid "We use cookies to track usage and preferences"
+msgstr "Ten serwis wykorzystuje pliki cookies."
+
+#: inc/footer-script.php:140 inc/kirki-parts/cookie-bar.php:32
+msgid "I Understand"
+msgstr "Rozumiem"
+
+#: inc/footer-script.php:143 inc/kirki-parts/cookie-bar.php:41
+msgid "Disable Cookies"
+msgstr "Wyłącz Cookies"
+
+#: inc/footer-script.php:146 inc/kirki-parts/cookie-bar.php:50
+msgid "Privacy Policy"
+msgstr "Polityka Prywatności"
+
+#: inc/kirki-master.php:16
+msgid "Eiting Options"
+msgstr "Edytuj Opcje"
+
+#: inc/wp_bootstrap_navwalker.php:197
+msgid "Add a menu"
+msgstr "Dodaj Menu"
+
+#: template-parts/content-archive.php:3
+msgid "Entry name:"
+msgstr "Nazwa Ktegorii:"
+
+#: template-parts/content-archive.php:5 template-parts/content-single.php:9
+#: template-parts/content-tags.php:9
+msgid "Added:"
+msgstr "Dodano:"
+
+#: template-parts/content-author.php:8 template-parts/content-category.php:7
+#: template-parts/content.php:7
+msgid "Author: "
+msgstr "Autor: "
+
+#: template-parts/content-author.php:10 template-parts/content-category.php:9
+#: template-parts/content.php:9
+msgid "Added: "
+msgstr "Dodano:"
+
+#: template-parts/content-single.php:7
+msgid "Author:"
+msgstr "Autor: "
+
+#: template-parts/content-single.php:32
+msgid "Entire Posts"
+msgstr "Podobne Wpisy"
+
+#: template-parts/content.php:16
+msgid "Read More "
+msgstr "Czytaj Więcej"
+
+#: inc/kirki-parts/cfs.php:6
+msgid "Related Post => Import Field To custom_field_suite"
+msgstr ""
+"Podobne Wpisy => Zaimportuj Dane Do Wtyczki o nazwie =>  Custom Field Suite ."
+".. Jeśli Jej Nie Zainstalowałeś to możesz ją pobrać z  => https://pl."
+"wordpress.org/plugins/custom-field-suite/"
+
+#: inc/kirki-parts/clear-front.php:7 inc/kirki-parts/front-color.php:7
+msgid "Change Background Color"
+msgstr "Zmień Kolor Kontentu"
+
+#: inc/kirki-parts/cookie-bar.php:7 inc/kirki-parts/front-first.php:98
+msgid "This is the label"
+msgstr "Etykieta"
+
+#: inc/kirki-parts/cookie-bar.php:12 inc/kirki-parts/custom-css.php:10
+msgid "Enable"
+msgstr "Włącz"
+
+#: inc/kirki-parts/cookie-bar.php:13 inc/kirki-parts/custom-css.php:11
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: inc/kirki-parts/cookie-bar.php:21
+msgid "Text Use Cookies"
+msgstr "Tekst Użytkowania Cookies"
+
+#: inc/kirki-parts/cookie-bar.php:39
+msgid "Text Disable Cookies"
+msgstr "Tekst Wyłączenia Cookies"
+
+#: inc/kirki-parts/cookie-bar.php:48
+msgid "Text Privacy Policy"
+msgstr "Tekst Polityki Prywatności"
+
+#: inc/kirki-parts/cookie-bar.php:57
+msgid "Choose Page To Cookie Info"
+msgstr "Wybierz stronę z Info Cookies"
+
+#: inc/kirki-parts/cookie-bar.php:66
+msgid "Choose Page To Cookie Info URL"
+msgstr "Dodaj Adres URl Info Polityki Prywatności"
+
+#: inc/kirki-parts/custom-css.php:5
+msgid "Enable Custom CSS"
+msgstr "Aktywuj CSS"
+
+#: inc/kirki-parts/custom-css.php:18
+msgid "Add Custom Css Code"
+msgstr "Dodaj Własny Kod CSS"
+
+#: inc/kirki-parts/footer.php:5
+msgid "Add Copyright"
+msgstr "Dodaj Copyright"
+
+#: inc/kirki-parts/footer.php:6
+msgid "Add Page name"
+msgstr "Dodaj Nazwę Strony"
+
+#: inc/kirki-parts/footer.php:16
+msgid "Addres Facebook"
+msgstr "Adres Facebook"
+
+#: inc/kirki-parts/footer.php:17
+msgid "Enter Your Faceebok"
+msgstr "Wpisz Adres Faceebok"
+
+#: inc/kirki-parts/footer.php:26
+msgid "Addres Twitter"
+msgstr "Adres Twitter"
+
+#: inc/kirki-parts/footer.php:27
+msgid "Enter Your Twitter"
+msgstr "Wpisz Adres Twitter"
+
+#: inc/kirki-parts/footer.php:36
+msgid "URL Youtobe"
+msgstr "Adres URL Youtobe"
+
+#: inc/kirki-parts/footer.php:37
+msgid "Enter Your Youtobe"
+msgstr "Wpisz Adres URL Youtobe"
+
+#: inc/kirki-parts/footer.php:46
+msgid "URL Google+"
+msgstr "URL Google+"
+
+#: inc/kirki-parts/footer.php:47
+msgid "Enter Your Google+"
+msgstr "Wpisz Adres Google+"
+
+#: inc/kirki-parts/front-contact.php:7 inc/kirki-parts/front-contact.php:30
+msgid "Add Form [pirate_forms]"
+msgstr "Dodaj Formularz [pirate_forms]"
+
+#: inc/kirki-parts/front-contact.php:16 inc/kirki-parts/front-finally.php:6
+#: inc/kirki-parts/front-next.php:137 inc/kirki-parts/front-next.php:143
+#: inc/kirki-parts/front-next.php:149
+msgid "Add Text"
+msgstr "Dodaj Text"
+
+#: inc/kirki-parts/front-contact.php:28
+msgid "Add Pirate Forms"
+msgstr "Dodaj Formularz Pirate Forms"
+
+#: inc/kirki-parts/front-contact.php:29
+msgid "Add Shortcode Contact Form"
+msgstr "Dodaj Shortcode Pirate Form"
+
+#: inc/kirki-parts/front-contact.php:39
+msgid "Add Google Map"
+msgstr "Dodaj Google Map"
+
+#: inc/kirki-parts/front-contact.php:40
+msgid "Add Google Map Iframe"
+msgstr "Dodaj Google Map Iframe"
+
+#: inc/kirki-parts/front-contact.php:41
+msgid "Add Iframe Maps<iframe>Your Map</iframe>"
+msgstr "Dodaj Google Map Iframe"
+
+#: inc/kirki-parts/front-finally.php:8 inc/kirki-parts/front-next.php:7
+#: inc/kirki-parts/front-portfolio.php:7
+msgid "Your Heading Text"
+msgstr "Twój Nagłówek"
+
+#: inc/kirki-parts/front-finally.php:15 inc/kirki-parts/front-last.php:19
+#: inc/kirki-parts/front-last.php:41 inc/kirki-parts/front-last.php:63
+#: inc/kirki-parts/front-next.php:14 inc/kirki-parts/front-next.php:107
+msgid "Add Image"
+msgstr "Dodaj Obrazek"
+
+#: inc/kirki-parts/front-finally.php:16
+msgid "Add Some Image"
+msgstr "Dodaj Swój Obrazek"
+
+#: inc/kirki-parts/front-finally.php:17
+msgid "Add Your Iamge Parallax Background."
+msgstr "Dodaj Tło Paralaxa"
+
+#: inc/kirki-parts/front-finally.php:26
+msgid "Change color"
+msgstr "Zmień Kolor"
+
+#: inc/kirki-parts/front-finally.php:43
+msgid "Repeater Control"
+msgstr "Repeater"
+
+#: inc/kirki-parts/front-finally.php:114
+msgid "Link URL"
+msgstr "OdnośnikURL"
+
+#: inc/kirki-parts/front-finally.php:115
+msgid "This will be the link URL"
+msgstr "To Będzie Odnośnik URL"
+
+#: inc/kirki-parts/front-finally.php:120 inc/kirki-parts/front-next.php:154
+msgid "Add Custom Effect"
+msgstr "Dodaj Przykładowy Efekt"
+
+#: inc/kirki-parts/front-finally.php:123 inc/kirki-parts/front-next.php:157
+msgid "Fade Left"
+msgstr "Fade Left"
+
+#: inc/kirki-parts/front-finally.php:124 inc/kirki-parts/front-next.php:158
+msgid "Fade Right"
+msgstr "Fade Right"
+
+#: inc/kirki-parts/front-finally.php:125 inc/kirki-parts/front-next.php:159
+msgid "Fade Up"
+msgstr "Fade Up"
+
+#: inc/kirki-parts/front-finally.php:126 inc/kirki-parts/front-next.php:160
+msgid "Fade Down"
+msgstr "Fade Down"
+
+#: inc/kirki-parts/front-finally.php:127 inc/kirki-parts/front-next.php:161
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: inc/kirki-parts/front-finally.php:128 inc/kirki-parts/front-next.php:162
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: inc/kirki-parts/front-finally.php:129 inc/kirki-parts/front-next.php:163
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: inc/kirki-parts/front-finally.php:130 inc/kirki-parts/front-next.php:164
+msgid "Flip Up"
+msgstr "Flip Up"
+
+#: inc/kirki-parts/front-finally.php:131 inc/kirki-parts/front-next.php:165
+msgid "Flip Down"
+msgstr "Flip Down"
+
+#: inc/kirki-parts/front-finally.php:132 inc/kirki-parts/front-next.php:166
+msgid "Flip Right"
+msgstr "Flip Right"
+
+#: inc/kirki-parts/front-finally.php:133 inc/kirki-parts/front-next.php:167
+msgid "Flip Left"
+msgstr "Flip Left"
+
+#: inc/kirki-parts/front-first.php:6
+msgid "Add Sectionn Name"
+msgstr "Podaj Nazwę Sekcji"
+
+#: inc/kirki-parts/front-first.php:7 inc/kirki-parts/front-first.php:17
+#: inc/kirki-parts/front-first.php:27 inc/kirki-parts/front-first.php:47
+#: inc/kirki-parts/front-first.php:57 inc/kirki-parts/front-first.php:69
+#: inc/kirki-parts/front-first.php:79
+msgid "Add Some Text"
+msgstr "Dodaj Tekst"
+
+#: inc/kirki-parts/front-first.php:16
+msgid "Ad Left Heading"
+msgstr "Dodaj Lewy Nagłówek"
+
+#: inc/kirki-parts/front-first.php:19
+msgid "Left Heading"
+msgstr "Lewy Nagłówek"
+
+#: inc/kirki-parts/front-first.php:26
+msgid "Add Left Paragraph"
+msgstr "Dodaj Lewy Obrazek"
+
+#: inc/kirki-parts/front-first.php:36
+msgid "Add Left Image"
+msgstr "Dodaj Lewy Obrazek"
+
+#: inc/kirki-parts/front-first.php:37
+msgid "Upload Image"
+msgstr "Pobierz Obrazek"
+
+#: inc/kirki-parts/front-first.php:46
+msgid "Add Left Bottom Heading"
+msgstr "dodaj Lewy dolny Nagłówek"
+
+#: inc/kirki-parts/front-first.php:56
+msgid "Add Left Bottom Paragraph"
+msgstr "Dodaj Lewy Nagłówek"
+
+#: inc/kirki-parts/front-first.php:68
+msgid "Add Heading Name"
+msgstr "Dodaj Nagłówek"
+
+#: inc/kirki-parts/front-first.php:71
+msgid "Hello First"
+msgstr "Witaj Pierwszy"
+
+#: inc/kirki-parts/front-first.php:78
+msgid "Add Right Paragraph"
+msgstr "Dodaj Prawy Nagłówek "
+
+#: inc/kirki-parts/front-first.php:88
+msgid "Add youtobe Video"
+msgstr "Dodaj Wideo Youtobe "
+
+#: inc/kirki-parts/front-first.php:89
+msgid "Add Wideo"
+msgstr "Dodaj Wideo"
+
+#: inc/kirki-parts/front-first.php:99
+msgid "This is the control description"
+msgstr "Opis Kontrolny"
+
+#: inc/kirki-parts/front-first.php:100
+msgid "This is some extra help text."
+msgstr "Extra Help"
+
+#: inc/kirki-parts/front-head.php:5 inc/kirki-parts/front-next.php:25
+msgid "Change Color"
+msgstr "Zmień Kolor"
+
+#: inc/kirki-parts/front-head.php:15
+msgid "Change Text Color"
+msgstr "Zmień Kolor Tekstu"
+
+#: inc/kirki-parts/front-head.php:25
+msgid "Change Effect Color"
+msgstr "Zmień Kolor Efektu"
+
+#: inc/kirki-parts/front-head.php:43
+msgid "Change Description Text Color"
+msgstr "Zmień Kolor Deskrypcji"
+
+#: inc/kirki-parts/front-head.php:79
+msgid "Choose Section To Scrool Down"
+msgstr "Wybierz Sekcje Aby przewinąć w dół"
+
+#: inc/kirki-parts/front-head.php:85 inc/kirki-parts/kirki-section.php:34
+msgid "First Section"
+msgstr "Pierwsza Sekcja"
+
+#: inc/kirki-parts/front-head.php:86 inc/kirki-parts/kirki-section.php:44
+msgid "Next Section"
+msgstr "Dróga Sekcja"
+
+#: inc/kirki-parts/front-head.php:87 inc/kirki-parts/kirki-section.php:54
+msgid "Last Section"
+msgstr "Trzecia Sekcja"
+
+#: inc/kirki-parts/front-head.php:88 inc/kirki-parts/kirki-section.php:64
+msgid "Portfolio Section"
+msgstr "Sekcja Portfolio"
+
+#: inc/kirki-parts/front-head.php:89 inc/kirki-parts/kirki-section.php:74
+msgid "Finally Section"
+msgstr "Sekcja Finałowa"
+
+#: inc/kirki-parts/front-head.php:90
+msgid "Contact Section"
+msgstr "Sekcja Kontaktowa"
+
+#: inc/kirki-parts/front-last.php:8
+msgid "Add your  Text"
+msgstr "Dodaj Tekst"
+
+#: inc/kirki-parts/front-last.php:18
+msgid "Add your Left Image"
+msgstr "Dodaj Lewy Obrazek"
+
+#: inc/kirki-parts/front-last.php:29
+msgid "Add Your Left Img Url"
+msgstr "Dodaj Url obrazka z lewej"
+
+#: inc/kirki-parts/front-last.php:30 inc/kirki-parts/front-last.php:52
+#: inc/kirki-parts/front-last.php:73 inc/kirki-parts/front-next.php:113
+#: inc/kirki-parts/front-next.php:119 inc/kirki-parts/front-next.php:125
+#: inc/kirki-parts/front-next.php:131
+msgid "Add URL"
+msgstr "Dodaj URL"
+
+#: inc/kirki-parts/front-last.php:40
+msgid "Add your Center Image"
+msgstr "Dodaj Środkowy Obrazek"
+
+#: inc/kirki-parts/front-last.php:51
+msgid "Add Your Center Img Url"
+msgstr "Dodaj URL Obrazka"
+
+#: inc/kirki-parts/front-last.php:62
+msgid "Add your Right Image"
+msgstr "Dodaj Prawy Obrazek"
+
+#: inc/kirki-parts/front-last.php:72
+msgid "Add Your Right Img Url"
+msgstr "Dodaj URL Obrazka"
+
+#: inc/kirki-parts/front-next.php:15
+msgid "Add Parallax Image"
+msgstr "Dodaj Efekt Parallax"
+
+#: inc/kirki-parts/front-next.php:16
+msgid "Simple Upload Image"
+msgstr "Po Prostu Pobierz Obrazek"
+
+#: inc/kirki-parts/front-next.php:36
+msgid "Change Heading Text Color"
+msgstr "Zmień Kolor Nagłówka"
+
+#: inc/kirki-parts/front-next.php:48
+msgid "Add Next Section"
+msgstr "Dodaj Następną Sekcję"
+
+#: inc/kirki-parts/front-next.php:59 inc/kirki-parts/front-next.php:83
+#: inc/kirki-parts/front-next.php:95
+msgid "Add Heading Next Text"
+msgstr "Dodaj Następny Nagłówek"
+
+#: inc/kirki-parts/front-next.php:60 inc/kirki-parts/front-next.php:72
+#: inc/kirki-parts/front-next.php:84 inc/kirki-parts/front-next.php:96
+msgid "Add Content Text"
+msgstr "Dodaj Tekst Kontentu"
+
+#: inc/kirki-parts/front-next.php:106 inc/kirki-parts/front-portfolio.php:14
+msgid "Add Your Image"
+msgstr "Dodaj Obrazek"
+
+#: inc/kirki-parts/front-next.php:112
+msgid "Add Your Adress Url Facebook"
+msgstr "Podaj Adres Url Facebook"
+
+#: inc/kirki-parts/front-next.php:118
+msgid "Add Your Adress Url Youtobe"
+msgstr "Pdaj Adres Url Youtobe"
+
+#: inc/kirki-parts/front-next.php:124
+msgid "Add Your Adress Url Twitter"
+msgstr "Podaj Adres Url Twitter"
+
+#: inc/kirki-parts/front-next.php:130
+msgid "Add Your Adress Url LinkedIn"
+msgstr "Podaj Adres Url LinkedIn"
+
+#: inc/kirki-parts/front-next.php:136
+msgid "Add Your Heading Text"
+msgstr "Dodaj Tekst Nagłówka"
+
+#: inc/kirki-parts/front-next.php:142
+msgid "Add Your Heading Next Text"
+msgstr "Dodaj Następny Nagłówek"
+
+#: inc/kirki-parts/front-next.php:148
+msgid "Add Your Content Text"
+msgstr "Dodaj Tekst Kontentu"
+
+#: inc/kirki-parts/front-portfolio.php:15
+msgid "Simple Add Image"
+msgstr "Po prostu dodaj Obrazek"
+
+#: inc/kirki-parts/front-portfolio.php:16
+msgid "Dont Wory Add Image."
+msgstr "Dodaj Obrazek"
+
+#: inc/kirki-parts/front-portfolio.php:61
+msgid "Choose Category"
+msgstr "Wybierz Kategorie"
+
+#: inc/kirki-parts/front-portfolio.php:72
+msgid "Set Minimum, Maximum => Max (100)"
+msgstr "Przedział od 0 do Max (100)"
+
+#: inc/kirki-parts/front-sortable.php:5
+msgid "Sort Your All Front Sections"
+msgstr "Przetasuj Swoje Frontowe Sekcje"
+
+#: inc/kirki-parts/front-sortable.php:21
+msgid "Front Heading"
+msgstr "Frontowy Nagłówek"
+
+#: inc/kirki-parts/front-sortable.php:22
+msgid "Front First"
+msgstr "Front Pierwsza"
+
+#: inc/kirki-parts/front-sortable.php:23
+msgid "Front Next"
+msgstr "Front Następna"
+
+#: inc/kirki-parts/front-sortable.php:24
+msgid "Front Last"
+msgstr "Front Przedostatnia"
+
+#: inc/kirki-parts/front-sortable.php:25
+msgid "Front Portfolio"
+msgstr "Front Portfolio"
+
+#: inc/kirki-parts/front-sortable.php:26
+msgid "Front Finally"
+msgstr "Front Finałowa"
+
+#: inc/kirki-parts/front-sortable.php:27
+msgid "Front Contact"
+msgstr "Front Kontakt"
+
+#: inc/kirki-parts/front-sortable.php:28
+msgid "Content"
+msgstr "Kontent"
+
+#: inc/kirki-parts/kirki-panels.php:4
+msgid "Options Front Page"
+msgstr "Opcje Front Page "
+
+#: inc/kirki-parts/kirki-panels.php:5
+msgid "change Front Options"
+msgstr "Zmień Opcje Frontowe"
+
+#: inc/kirki-parts/kirki-section.php:5
+msgid "Front Sortable"
+msgstr "Front Sorting"
+
+#: inc/kirki-parts/kirki-section.php:6
+msgid "Sort Your Section"
+msgstr "Przesortuj Sekcje"
+
+#: inc/kirki-parts/kirki-section.php:14
+msgid "Front Colors"
+msgstr "Kolory Frontowe"
+
+#: inc/kirki-parts/kirki-section.php:15
+msgid "Change Colors"
+msgstr "Zmień Kolory"
+
+#: inc/kirki-parts/kirki-section.php:24
+msgid "Head Section"
+msgstr "Górna Sekcja"
+
+#: inc/kirki-parts/kirki-section.php:25 inc/kirki-parts/kirki-section.php:35
+#: inc/kirki-parts/kirki-section.php:45 inc/kirki-parts/kirki-section.php:55
+#: inc/kirki-parts/kirki-section.php:65 inc/kirki-parts/kirki-section.php:75
+#: inc/kirki-parts/kirki-section.php:87 inc/kirki-parts/kirki-section.php:97
+#: inc/kirki-parts/kirki-section.php:108
+msgid "Add Option"
+msgstr "Dodaj Opcje"
+
+#: inc/kirki-parts/kirki-section.php:86
+msgid "Contact Options"
+msgstr "Opcje Kontaktu"
+
+#: inc/kirki-parts/kirki-section.php:96
+msgid "Template Clear Front Options"
+msgstr "Opcje Szablonu Front Clear"
+
+#: inc/kirki-parts/kirki-section.php:107
+msgid "Options Footer"
+msgstr "Opcje Footer"
+
+#: inc/kirki-parts/kirki-section.php:117
+msgid "Options Cookie"
+msgstr "Opcje Cookie"
+
+#: inc/kirki-parts/kirki-section.php:128
+msgid "Custom CSS"
+msgstr "Dodatkowy Styl CSS"
+
+#: inc/kirki-parts/kirki-section.php:129
+msgid "Add Custom CSS"
+msgstr "Dodaj Dodatkowy Styl CSS"
+
+#: inc/kirki-parts/kirki-section.php:138
+msgid "Usage Custom Fields"
+msgstr "Użycie Dodatkowych Pól"
