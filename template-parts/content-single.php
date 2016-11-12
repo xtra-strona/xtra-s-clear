@@ -36,11 +36,12 @@ $switch_text = CFS()->get( 'switch_entire_text' );
 foreach ($p_related as $rel) {
   $the_post = get_post( $rel );
   $id = $the_post->ID;
-  $url = $the_post->guid;
   $img_url = get_the_post_thumbnail_url( $id, 'medium' );
   ?>
+  
+  
   <div class="item">
-    <a href="<?= $url ?>">
+    <a href="<?php the_permalink($id); ?>">
        <img class="lazyOwl" data-src="<?= $img_url ?>" alt="Lazy Owl Image">
     </a>
   </div>
