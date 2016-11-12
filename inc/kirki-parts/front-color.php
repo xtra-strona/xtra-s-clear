@@ -10,3 +10,13 @@ Kirki::add_field( 'my_config', array(
 	'priority'    => 10,
 	'alpha'       => true,
 ) );
+
+Kirki::add_field( 'my_config', array(
+	'type'        => 'color',
+	'settings'    => '2' . $fr_opt,
+	'label'       => __( 'Change Color', 'xtra-starter' ),
+	'section'     => 'front_colors',
+	'default'     => '#e1ccb4',
+	'priority'    => 20,
+	'alpha'       => true,
+) );

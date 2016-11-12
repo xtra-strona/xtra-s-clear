@@ -60,9 +60,13 @@ padding-top:<?php if ($ptop_clfr != ''){ echo $ptop_clfr; } ?>rem;
 
 <?php
 $bc_fr = esc_attr(get_theme_mod('1_front_options','#3b3c44'));
-if (is_front_page()){ ?>
+$bc_fr_c = esc_attr(get_theme_mod('2_front_options','#3b3c44'));
+if (is_front_page() && !is_page_template('clear-front.php')){ ?>
   body {
   background-color:<?php if ($bc_fr != ''){ echo $bc_fr; }?>;
+  }
+  .front-content p {
+    color: <?php if ($bc_fr_c != ''){ echo $bc_fr_c; }?>;
   }
 <?php } ?>
 
