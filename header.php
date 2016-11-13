@@ -8,6 +8,22 @@
     <title><?php bloginfo('name') ?> | <?php echo is_home() || is_front_page() ? bloginfo('description') : wp_title(); ?></title>
 <?php get_template_part('inc/header-style'); ?>
 <?php wp_head(); ?>
+<style media="screen">
+<?php
+      $css_sw = get_theme_mod('css_switch');
+      $c_css = get_theme_mod('cust_css',
+      '.fr-head h2 {
+      background-color: #011232;
+      color: red !important;
+      padding: 20px;
+      border-top: 4px solid;
+      border-bottom: 4px solid #a29e82;
+    }'
+);
+if ($css_sw) {
+echo esc_html($c_css);
+ }  ?>
+</style>
 </head>
 <body id="body" <?php body_class(); ?> data-spy="scroll" data-target=".navbar-fixed-top">
   <!-- Navigation -->

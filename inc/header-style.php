@@ -33,23 +33,6 @@ $value_f_f = get_theme_mod( 'f_f_t_c', $defaults_f_f );
   font-size: 1.5rem;
 }
 
-
-
-<?php
-      $css_sw = get_theme_mod('css_switch');
-      $c_css = get_theme_mod('cust_css',
-      '.fr-head h2 {
-      background-color: #011232;
-      color: red !important;
-      padding: 20px;
-      border-top: 4px solid;
-      border-bottom: 4px solid #a29e82;
-    }'
-);
-if ($css_sw) {
-echo esc_html($c_css);
- }  ?>
-
 <?php if(has_post_thumbnail()) : ?>
  .parallax-window-page {
 background-image:url("<?php the_post_thumbnail_url(); ?>");
